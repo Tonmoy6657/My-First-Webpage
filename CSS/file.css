@@ -1,0 +1,8 @@
+.row{
+    display: table;
+}
+.column{
+    float: left;
+    padding: 5px;
+    width: 25%;
+}
